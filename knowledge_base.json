@@ -1,0 +1,174 @@
+[
+  {
+    "id": "soil-test",
+    "crop": "general",
+    "topic": "soil",
+    "source": "Starter entry - verify with ICAR / state soil testing lab",
+    "text": "Test your soil every two to three years, before the sowing season. Take samples from 8 to 10 spots in the field at plough depth, mix them, and send one half-kilogram sample to the nearest soil testing laboratory. Apply fertiliser according to the soil test report instead of a fixed dose. This saves money and avoids over-use of fertiliser.",
+    "keywords": "soil testing soil health when to test"
+  },
+  {
+    "id": "organic-matter",
+    "crop": "general",
+    "topic": "soil",
+    "source": "Starter entry - verify with ICAR / TNAU",
+    "text": "Add well-decomposed farmyard manure or compost to the soil every season. Green manure crops such as sunhemp or dhaincha improve soil structure, organic carbon and water holding capacity, and reduce the need for chemical fertiliser."
+  },
+  {
+    "id": "ipm-basics",
+    "crop": "general",
+    "topic": "pest",
+    "source": "Starter entry - verify with ICAR / TNAU",
+    "text": "Integrated Pest Management means using many methods together. Inspect the field every week, use resistant varieties, remove infected plants, use yellow or blue sticky traps and pheromone traps, protect friendly insects such as spiders and ladybird beetles, and use chemicals only when pests cross the economic threshold level.",
+    "keywords": "pest control insects bugs integrated pest management what to spray"
+  },
+  {
+    "id": "pesticide-safety",
+    "crop": "general",
+    "topic": "safety",
+    "source": "Starter entry - verify with CIB&RC label rules",
+    "text": "Use only pesticides registered for your crop, and always follow the dose and waiting period on the label. Wear gloves, a mask and full-sleeve clothes while spraying. Do not spray against the wind or in the afternoon heat. Keep children and animals away, never mix without advice, and wash well after spraying. Do not reuse empty pesticide containers.",
+    "keywords": "pesticide pesticides insecticide fungicide spray chemical medicine what to use which pesticide"
+  },
+  {
+    "id": "water-saving",
+    "crop": "general",
+    "topic": "water",
+    "source": "Starter entry - verify with state agriculture department",
+    "text": "Drip and sprinkler irrigation save water and reduce weeds and disease. Irrigate at the critical growth stages of the crop instead of at fixed intervals. Mulching with straw or crop residue reduces evaporation. Irrigate in the early morning or evening to reduce water loss.",
+    "keywords": "irrigation water saving drip"
+  },
+  {
+    "id": "seed-treatment",
+    "crop": "general",
+    "topic": "seed",
+    "source": "Starter entry - verify with TNAU / ICAR",
+    "text": "Use certified, healthy seed from a trusted source. Seed treatment before sowing with a recommended biocontrol agent such as Trichoderma or Pseudomonas, or a recommended fungicide, protects seedlings from soil and seed-borne diseases. Follow the recommended quantity per kilogram of seed."
+  },
+  {
+    "id": "crop-rotation",
+    "crop": "general",
+    "topic": "practice",
+    "source": "Starter entry - verify with ICAR",
+    "text": "Rotate crops every season. Growing a pulse crop after a cereal adds nitrogen to the soil. Rotation breaks the life cycle of pests and diseases that stay in the soil, so avoid growing the same crop or the same family of crops in the same field year after year."
+  },
+  {
+    "id": "rice-blast",
+    "crop": "rice",
+    "topic": "disease",
+    "source": "Starter entry - verify with TNAU / ICAR",
+    "text": "Rice blast shows as spindle-shaped spots with grey centres and brown edges on leaves, and the neck of the panicle can break. It spreads in cool nights, high humidity and with excess nitrogen. Use resistant varieties, treat seed, split the nitrogen dose, avoid dense planting, and contact your agriculture officer for the approved fungicide and dose if the disease appears.",
+    "keywords": "paddy rice leaf spots blast"
+  },
+  {
+    "id": "rice-bph",
+    "crop": "rice",
+    "topic": "pest",
+    "source": "Starter entry - verify with TNAU / ICAR",
+    "text": "Brown planthopper sucks sap at the base of the plant and causes circular yellow-brown patches called hopper burn. Avoid excess nitrogen and close planting, drain the field for a few days, leave alleys in the field, conserve natural enemies like spiders and mirid bugs, and avoid unnecessary early sprays that kill them."
+  },
+  {
+    "id": "rice-blb",
+    "crop": "rice",
+    "topic": "disease",
+    "source": "Starter entry - verify with TNAU / ICAR",
+    "text": "Bacterial leaf blight in rice causes yellow to white stripes from the leaf tip along the edges, and leaves dry up. It spreads through water and wind-driven rain. Use resistant varieties and healthy seed, avoid excess nitrogen, drain standing water, and keep bunds free of weeds."
+  },
+  {
+    "id": "tomato-blight",
+    "crop": "tomato",
+    "topic": "disease",
+    "source": "Starter entry - verify with TNAU / ICAR",
+    "text": "Early blight of tomato shows dark brown spots with rings, first on older leaves. Remove and destroy infected leaves, rotate crops, stake the plants for air flow, avoid wetting the leaves while irrigating, use mulch, and use recommended fungicides as advised locally.",
+    "keywords": "tomato leaf spots blight brown spots"
+  },
+  {
+    "id": "tomato-wilt",
+    "crop": "tomato",
+    "topic": "disease",
+    "source": "Starter entry - verify with TNAU / ICAR",
+    "text": "If tomato plants wilt suddenly while the leaves are still green, bacterial wilt may be the cause. Remove and destroy affected plants, do not irrigate from infected fields to healthy fields, rotate with non-host crops such as maize, improve drainage, and use resistant rootstock or varieties where available."
+  },
+  {
+    "id": "chilli-curl",
+    "crop": "chilli",
+    "topic": "disease",
+    "source": "Starter entry - verify with TNAU / ICAR",
+    "text": "Leaf curl in chilli is caused by a virus spread by whiteflies and thrips. Leaves curl upward, become small and plants are stunted. Remove infected plants early, use yellow sticky traps, grow border crops like maize, use healthy nursery seedlings under insect-proof net, and ask your agriculture officer for recommended control of the insects."
+  },
+  {
+    "id": "cotton-bollworm",
+    "crop": "cotton",
+    "topic": "pest",
+    "source": "Starter entry - verify with ICAR-CICR",
+    "text": "Pink bollworm damages cotton bolls and seed. Monitor with pheromone traps from flowering, remove and destroy crop residues after harvest, avoid growing cotton continuously in the same field, and follow the local agriculture department's advice on timing of control. Do not use unrecommended mixtures of pesticides."
+  },
+  {
+    "id": "banana-wilt",
+    "crop": "banana",
+    "topic": "disease",
+    "source": "Starter entry - verify with ICAR-NRCB / TNAU",
+    "text": "Panama wilt in banana causes yellowing of older leaves that bend down, and the inside of the pseudostem shows brown discolouration. Use disease-free tissue culture plants, avoid planting in fields where the disease has occurred, improve drainage, and remove and destroy affected plants without spreading soil to other fields."
+  },
+  {
+    "id": "groundnut-tikka",
+    "crop": "groundnut",
+    "topic": "disease",
+    "source": "Starter entry - verify with TNAU / ICAR",
+    "text": "Tikka leaf spot in groundnut causes brown to black spots with yellow rings on leaves, leading to leaf fall. Use resistant varieties, treat seed, rotate with cereals, remove crop residue after harvest, and ask your agriculture officer for the recommended fungicide at the right stage."
+  },
+  {
+    "id": "fertiliser-split",
+    "crop": "general",
+    "topic": "fertiliser",
+    "source": "Starter entry - verify with ICAR / state agriculture department",
+    "text": "Apply nitrogen fertiliser in two or three split doses instead of all at once, because most crops use it best at tillering, flowering or fruiting stages. Avoid applying fertiliser just before heavy rain, and place it near the root zone. Excess nitrogen makes crops more prone to pests and diseases.",
+    "keywords": "fertilizer manure nutrients urea dose"
+  },
+  {
+    "id": "weed-control",
+    "crop": "general",
+    "topic": "weed",
+    "source": "Starter entry - verify with ICAR",
+    "text": "Weeds compete with the crop for water, light and nutrients in the first 30 to 45 days. Keep the field weed-free in this critical period using timely hand weeding, hoeing or mulching. Use herbicides only when recommended for your crop, at the right stage and dose."
+  },
+  {
+    "id": "storage",
+    "crop": "general",
+    "topic": "post-harvest",
+    "source": "Starter entry - verify with ICAR",
+    "text": "Dry grain to the safe moisture level before storage, around 12 percent for most cereals. Clean the store and bags, keep them off the floor and away from walls, and check regularly for insects. Good drying and clean storage reduce losses and fungal contamination."
+  },
+  {
+    "id": "helpline",
+    "crop": "general",
+    "topic": "support",
+    "source": "Government of India - verify the number locally",
+    "text": "If you need expert advice, contact your nearest Krishi Vigyan Kendra, the local agriculture officer, or the Kisan Call Centre on the toll-free number 1800-180-1551. Take a clear photo of the affected plant or leaf and a sample if possible.",
+    "keywords": "helpline phone number call expert contact kvk"
+  },
+  {
+    "id": "overview-diseases",
+    "crop": "general",
+    "topic": "disease",
+    "source": "Starter entry - verify with ICAR / state agriculture university / KVK",
+    "keywords": "all leaf diseases list of diseases which diseases can you detect supported crops types of leaf diseases what can you do",
+    "text": "From a photo, AgriAssist recognises 26 leaf diseases, and healthy leaves, in 14 crops. Apple: scab, black rot, cedar apple rust. Cherry: powdery mildew. Corn: gray leaf spot, common rust, northern leaf blight. Grape: black rot, esca, leaf blight. Orange: citrus greening. Peach and bell pepper: bacterial spot. Potato: early blight, late blight. Squash: powdery mildew. Strawberry: leaf scorch. Tomato: bacterial spot, early blight, late blight, leaf mold, Septoria leaf spot, spider mites, target spot, yellow leaf curl virus, mosaic virus. Blueberry, raspberry and soybean are recognised only when healthy. You can also type questions about rice, chilli, cotton, banana and groundnut. Upload a clear leaf photo, or name the crop and the symptom."
+  },
+  {
+    "id": "organic-control",
+    "crop": "general",
+    "topic": "pest",
+    "source": "Starter entry - verify with ICAR / state agriculture university / KVK",
+    "keywords": "organic natural home remedy neem bio pesticide without chemicals",
+    "text": "Natural options for many leaf problems: remove and destroy infected leaves, keep the field clean, use yellow sticky traps for whiteflies, and spray neem-based products as per the label against mites, whiteflies and early powdery mildew. Natural sprays work best when used early, so check your leaves every week. If the disease spreads fast, ask your KVK or agriculture officer."
+  },
+  {
+    "id": "symptom-guide",
+    "crop": "general",
+    "topic": "disease",
+    "source": "Starter entry - verify with ICAR / state agriculture university / KVK",
+    "keywords": "leaf yellow spots brown white powder curling symptoms what is wrong with my plant sick plant",
+    "text": "How to read leaf symptoms: yellowing between the veins can mean a nutrient shortage; brown spots with a yellow ring often mean a fungal or bacterial disease; white powder on leaves means powdery mildew; curling and yellowing with small white flies often means a virus; fine dots and webbing under the leaf means mites. Upload a clear photo for a better guess, and take a sample to your KVK if you are unsure."
+  }
+]

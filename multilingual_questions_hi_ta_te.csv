@@ -1,0 +1,16 @@
+question,expected_id,lang
+धान में ब्लास्ट रोग के लक्षण क्या हैं?,rice-blast,hi
+धान में ब्राउन प्लांट हॉपर से कैसे बचें?,rice-bph,hi
+टमाटर में लेट ब्लाइट के लक्षण क्या हैं?,disease-tomatolateblight,hi
+आलू में अर्ली ब्लाइट को कैसे पहचानें?,disease-potatoearlyblight,hi
+मूंगफली में टिक्का रोग के लक्षण क्या हैं?,groundnut-tikka,hi
+நெல் வெடிப்பு நோயின் அறிகுறிகள் என்ன?,rice-blast,ta
+நெற்பயிரில் பழுப்பு தத்துப்பூச்சியை எவ்வாறு கட்டுப்படுத்துவது?,rice-bph,ta
+தக்காளியில் தாமத இலைக்கருகல் நோயின் அறிகுறிகள் என்ன?,disease-tomatolateblight,ta
+உருளைக்கிழங்கில் ஆரம்ப இலைக்கருகல் நோயை எவ்வாறு கண்டறிவது?,disease-potatoearlyblight,ta
+நிலக்கடலையில் டிக்கா நோயின் அறிகுறிகள் என்ன?,groundnut-tikka,ta
+వరిలో అగ్గి తెగులు లక్షణాలు ఏమిటి?,rice-blast,te
+వరిలో గోధుమ రంగు దోమను ఎలా నియంత్రించాలి?,rice-bph,te
+టమాటాలో లేట్ బ్లైట్ తెగులు లక్షణాలు ఏమిటి?,disease-tomatolateblight,te
+బంగాళాదుంపలో ఎర్లీ బ్లైట్‌ను ఎలా గుర్తించాలి?,disease-potatoearlyblight,te
+వేరుశనగలో టిక్కా తెగులు లక్షణాలు ఏమిటి?,groundnut-tikka,te

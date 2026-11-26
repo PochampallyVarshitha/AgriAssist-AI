@@ -1,0 +1,13 @@
+streamlit>=1.41
+torch>=2.6
+torchvision
+transformers>=4.44
+sentence-transformers
+huggingface_hub
+numpy
+scipy
+soundfile
+pillow
+langdetect
+sentencepiece
+accelerate

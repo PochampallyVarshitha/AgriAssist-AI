@@ -1,0 +1,31 @@
+question,expected_id,lang
+"How often should I test my field soil?",soil-test,en
+"What can I add to improve soil organic matter?",organic-matter,en
+"What is integrated pest management?",ipm-basics,en
+"What safety precautions should I take while spraying pesticides?",pesticide-safety,en
+"How can I save irrigation water?",water-saving,en
+"How should I treat seeds before sowing?",seed-treatment,en
+"Why should I rotate crops every season?",crop-rotation,en
+"What are the symptoms of rice blast disease?",rice-blast,en
+"How can I manage brown planthopper in rice?",rice-bph,en
+"What are the symptoms of bacterial leaf blight in rice?",rice-blb,en
+"What causes dark brown ring-shaped spots on older tomato leaves?",tomato-blight,en
+"What should I do if my tomato plants suddenly wilt while leaves remain green?",tomato-wilt,en
+"What causes upward curling and stunted growth in chilli plants?",chilli-curl,en
+"How can I monitor pink bollworm in cotton?",cotton-bollworm,en
+"What are the symptoms of Panama wilt in banana?",banana-wilt,en
+"What causes brown leaf spots with yellow rings in groundnut?",groundnut-tikka,en
+"Why should nitrogen fertiliser be applied in split doses?",fertiliser-split,en
+"When should I control weeds after sowing?",weed-control,en
+"What moisture level is suitable for storing most cereal grains?",storage,en
+"Where can I contact an agricultural expert for help?",helpline,en
+"What diseases can AgriAssist identify from leaf photographs?",overview-diseases,en
+"What natural methods can help control whiteflies and mites?",organic-control,en
+"What can different leaf symptoms tell me about plant health?",symptom-guide,en
+"What are the symptoms of apple scab?",disease-appleapplescab,en
+"What are the symptoms of grape black rot?",disease-grapeblackrot,en
+"What are the symptoms of citrus greening in orange trees?",disease-orangehaunglongbingcitrusgreening,en
+"What are the symptoms of potato early blight?",disease-potatoearlyblight,en
+"What are the symptoms of potato late blight?",disease-potatolateblight,en
+"What are the symptoms of tomato Septoria leaf spot?",disease-tomatoseptorialeafspot,en
+"What are the symptoms of tomato yellow leaf curl virus?",disease-tomatotomatoyellowleafcurlvirus,en
